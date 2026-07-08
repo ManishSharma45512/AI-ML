@@ -7,7 +7,7 @@
 **🐍 Written in Python. Powered by Curiosity. 🐍**
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Notebooks Completed](https://img.shields.io/badge/Notebooks%20Completed-<!--NOTEBOOK_COUNT-->0<!--END_NOTEBOOK_COUNT-->-00A4EF?style=for-the-badge&logo=jupyter)
+![Notebooks Completed](https://img.shields.io/badge/Notebooks%20Completed-<!--NOTEBOOK_COUNT-->1<!--END_NOTEBOOK_COUNT-->-00A4EF?style=for-the-badge&logo=jupyter)
 ![Certificate](https://img.shields.io/badge/Coursera-Microsoft%20AI%2FML%20Professional-F25022?style=for-the-badge&logo=coursera&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-7FBA00?style=for-the-badge&logo=fire)
 ![License](https://img.shields.io/badge/License-MIT-FFB900?style=for-the-badge)
@@ -32,7 +32,7 @@ This repository documents my hands-on journey through **Microsoft's AI/ML Profes
 
 | ⚡ Metric | 🎯 Value |
 |:---:|:---:|
-| **Notebooks / Scripts Completed** | `<!--NOTEBOOK_COUNT-->0<!--END_NOTEBOOK_COUNT-->` 🔵 *(auto-updates on every push)* |
+| **Notebooks / Scripts Completed** | `<!--NOTEBOOK_COUNT-->1<!--END_NOTEBOOK_COUNT-->` 🔵 *(auto-updates on every push)* |
 | **Language** | `Python` |
 | **Platform** | `Microsoft × Coursera` |
 | **Track** | `AI/ML Professional Certificate` |
