@@ -49,3 +49,73 @@ print(df_preprocessed.head())
 
 
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# Save the cleaned and preprocessed DataFrame to a CSV file
+save_data(df_preprocessed, 'applying_preprocessed_dummy_data.csv')
+
+print('Preprocessing complete. Preprocessed data saved as preprocessed_dummy_data.csv')
+
+
+#
+#
+#                        CSV:applying_preprocessed_dummy_data.csv --------->Stored
+#
+#
+
+
+'''Saving the preprocessed data to a new file ensures that it’s ready for use in training ML models. This step makes it easy to use the cleaned and processed data in future analysis or modeling efforts.'''
+
+
+#--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Verifying the preprocessing steps 
+
+
+
+#Check for missing values: 
+
+print(df_preprocessed.isnull().sum())
+
+#Verify outlier removal:
+
+print(df_preprocessed.describe())
+
+#Inspect scaled data: 
+
+print(df_preprocessed.head())
+
+#Check categorical encoding:
+
+print(df_preprocessed.columns)
+
+
+
+
+
+
+
+#-----------------------------XXXXXXXXXXXXXXXXXXXX---------------------------------XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------XXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
