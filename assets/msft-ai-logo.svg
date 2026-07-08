@@ -1,0 +1,33 @@
+<svg width="640" height="180" viewBox="0 0 640 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .letter {
+        font-family: 'Segoe UI', 'Product Sans', Arial, Helvetica, sans-serif;
+        font-weight: 700;
+        font-size: 96px;
+      }
+    </style>
+  </defs>
+
+  <rect width="640" height="180" fill="none"/>
+
+  <!-- Microsoft 4-square logo mark -->
+  <rect x="20"  y="30" width="55" height="55" fill="#F25022"/>
+  <rect x="83"  y="30" width="55" height="55" fill="#7FBA00"/>
+  <rect x="20"  y="93" width="55" height="55" fill="#00A4EF"/>
+  <rect x="83"  y="93" width="55" height="55" fill="#FFB900"/>
+
+  <!-- AI/ML wordmark -->
+  <text x="165" y="115" class="letter" fill="#F25022">AI</text>
+  <text x="290" y="115" class="letter" fill="#5E5E5E">/</text>
+  <text x="330" y="115" class="letter" fill="#00A4EF">ML</text>
+
+  <!-- underline accent bar cycling through Microsoft's four colors -->
+  <rect x="165" y="135" width="80" height="8" rx="4" fill="#F25022"/>
+  <rect x="250" y="135" width="80" height="8" rx="4" fill="#7FBA00"/>
+  <rect x="335" y="135" width="80" height="8" rx="4" fill="#00A4EF"/>
+  <rect x="420" y="135" width="80" height="8" rx="4" fill="#FFB900"/>
+
+  <!-- python accent tag -->
+  <text x="510" y="112" font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="60" fill="#7FBA00">.py</text>
+</svg>
